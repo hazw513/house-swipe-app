@@ -1,0 +1,2 @@
+/hm-api/* https://housemetric.co.uk/:splat 200
+/rm-api/* https://www.rightmove.co.uk/:splat 200

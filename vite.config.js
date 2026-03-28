@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/house-swipe-app/',
   server: {
     host:true,
     proxy: {
